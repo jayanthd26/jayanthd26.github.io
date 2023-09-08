@@ -558,8 +558,13 @@ main {
 /**
  * #POR
  */
+.por { margin-bottom: 30px; }
+.por-title { margin-bottom: 20px; color: aliceblue;font-size: 25px;}
 .por-text{
   color: var(--light-gray);
+  list-style-type:disc;
+  padding-left: 10px;
+  
 }
 
 /**
